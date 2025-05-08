@@ -1,20 +1,10 @@
-### Algumas coisas sobre mim:
-
-- 🔭 Atualmente atuo na Pagar.me e em projetos pessoais
-- 🌱 Desenvolvi projetos front-end usando HTML, CSS, pure JS, Axios, React, Styled Components, TS e Material-UI
-- 🌱 Desenvolvi projetos back-end usando Node, Express, MongoDB, PostgreSQL, Jest, TS e Prisma ORM
-- 🌱 Tenho experiência em conteinerização de aplicativos usando Docker
-- 🔭 Atualmente estou interessado em NestJS e GraphQL
-- 📫 Você pode me contatar pelo meu email jeferson.de.oliveira.batista@gmail.com
-- ⚡ Curiosidade: faço malabarismos com três bolas
-
 ### Some things about me:
 
 - 🔭 I’m currently working at Pagar.me and on personal projects
 - 🌱 I have developed front-end projects using HTML, CSS, pure JS, Axios, React, Styled Components, TS and Material-UI
 - 🌱 I have developed back-end projects using Node, Express, MongoDB, PostgreSQL, Jest, TS and Prisma ORM
 - 🌱 I have experience in app containerization using Docker
-- 🔭 I’m currently interested in NestJS and GraphQL
+- 🔭 I’m currently interested in Go language, Terraform and Ansible
 - 📫 To reach me there is my email jeferson.de.oliveira.batista@gmail.com
 - ⚡ Fun fact: I can juggle three balls
 
